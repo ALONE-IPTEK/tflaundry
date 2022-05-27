@@ -17,7 +17,7 @@ const Navbar = () => {
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/public/admin ">login</a></li>
+                        <li class="nav-item"><a class="nav-link" href="admin ">login</a></li>
                         
                     </ul>
                 </div>
